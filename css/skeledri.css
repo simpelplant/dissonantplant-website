@@ -33,6 +33,17 @@ span.tags{
 .icon{
 	margin-bottom: 0;
 }
+.new-content{
+	border-left: 4px solid #1D7484;
+	padding: 5px 0px 5px 10px;
+	margin-bottom: 0.5em;
+}
+.new-content span{
+	font-size: 0.8em;
+}
+.content-date{
+	margin-right:0.5em;
+}
 a.button:focus:enabled, a.button:hover, input[type="submit"]:focus:enabled, input[type="submit"]:hover:enabled, input[type="reset"]:focus:enabled, input[type="reset"]:hover:enabled, input[type="button"]:focus:enabled, input[type="button"]:hover:enabled {
     background-color: #982c61;
     border-color: #982c61;
