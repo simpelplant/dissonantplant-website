@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header>
+    <ul class="breadcrumb">
+        <li><a href="/">Home</a></li>
+        <li>Posts</li>
+    </ul>
+</header>
+
+<div class="row">
+    <div class="twelve columns">		
+        <article>
+            <h3 style="margin-bottom:0">All Covered Songs</h3>
+            <p><small><i>Sorted by most recent</i></small></p>
+            <div>
+                <form id="search">
+                    <input type="text" placeholder="Search..." style="width:61%;"/>
+                </form>
+            </div>
+            <div id="song-list">
+                <table style="text-align: left;">
+                    <thead>
+                      <tr>
+                        <th>Song</th>
+                        <th>Author</th>
+                        <th>Difficulty</th>
+                        <th>Tags</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                        {% for page in section.pages %}
+                        <tr>
+                          <td><a href="{{ page.permalink | safe }}">{{ page.extra.song }}</a></td>
+                          <td>{{ page.extra.author }}</td>
+                          <td>{{ page.extra.difficulty }}</td>
+                          <td>
+                            {%- for tags in page.extra.tags -%}
+                              <span class="tags">{{tags}}</span>&nbsp;
+                            {%- endfor -%}
+                          </td>
+                        </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+            </div>
+        </article>
+        <h6><a href="/requests">>> List of requested songs</a></h6>
+    </div>
+    <script src="/js/filter.js"></script>
+</div>
+{% endblock content %}

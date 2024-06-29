@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header>
+    <ul class="breadcrumb">
+        <li><a href="/">Home</a></li>
+        <li>About</li>
+    </ul>
+</header>
+
+<div class="row">
+    <div class="twelve columns">		
+        <article>
+            {{ section.content | safe }}
+        </article>
+    </div>
+</div>
+{% endblock content %}

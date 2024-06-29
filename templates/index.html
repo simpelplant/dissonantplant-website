@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header>
+    <ul class="breadcrumb">
+        <li>{{ section.title }}</li>
+    </ul>
+</header>
+
+<div class="row">
+    <div class="twelve columns">		
+        <article>
+            <h3 style="margin-bottom:0">Recent Covers</h3>
+            <p><small><i>Sorted by date added (latest)</i></small></p>
+            <ul>
+                {% set section = get_section(path="post/_index.md") %}
+                {% for page in section.pages | slice(end=5) %}
+                <div class="new-content">
+                    <a href="{{ page.permalink }}"><b>{{ page.title }}</b> <small>{{ page.extra.extra_title }}</small></a><br>
+                    <small class="content-date">{{ page.date }}</small>
+                    <span>{{ page.extra.difficulty }}</span>
+                </div>
+                {% endfor %}
+            </ul>
+        </article>
+        <h6><a href="/post">>> See all covered songs</a></h6>
+        <h6><a href="/requests">>> List of requested songs</a></h6>
+    </div>
+</div>
+{% endblock content %}
