@@ -39,7 +39,6 @@ template = "requests.html"
 - Eri Sasaki - Hana no Tonari
 - HI3rd - Moon Halo
 - Yuika - Koidorobou
-- Minami - Blue Gurasu
 - Hakos Baelz - Play Dice
 - Natori - Overdose
 - Takase Toya - Demo
@@ -91,6 +90,7 @@ template = "requests.html"
 - [GI 2Y Anniv Fansong] If you suddenly think of me
 - Kobo Kanaeru x Heiakim - War! Tokopedia
 - Mosawo - Kira kira
-- Kobo Kanaeru - Sebatas video call</pre>
+- Kobo Kanaeru - Sebatas video call
+- Minami - Blue Gurasu</pre>
     </details>
 </blockquote>
