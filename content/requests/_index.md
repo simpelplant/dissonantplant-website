@@ -51,8 +51,10 @@ template = "requests.html"
 - Kobo Kanaeru - Help!
 - Kessoku Band - Into the Light
 - BuzzG - Carry On
+- BeaconCream & Frederett - Jarak
 - Pretender
 - MikotoP - Shojou Rei
+- SSGIRLS - Sunny Spot
 ```
 
 <blockquote>
