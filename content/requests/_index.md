@@ -29,12 +29,10 @@ template = "requests.html"
 - Yuuri or Yorushiku songs
 - Mosawo - Aitai (Base D)
 - Mosawo - Kinmokusei
-- Hoshimachi Suisei - Stellar Stellar (or first take ver.)
 - Jungkook - Still With You
 - Chloe Pawapuwa - Lagu
 - PWG - Fluktuasi Glukosa
 - Yorushika - Setting Sun (Shayou)
-- Mosawo - Kirakira
 - Black Number - Shiawase
 - Eri Sasaki - Hana no Tonari
 - HI3rd - Moon Halo
@@ -55,6 +53,9 @@ template = "requests.html"
 - Pretender
 - MikotoP - Shojou Rei
 - SSGIRLS - Sunny Spot
+- Shibayan Records - なんてことない日
+- Airani Iofifteen - Here I am
+- Alekun - Baka
 ```
 
 <blockquote>
@@ -91,8 +92,9 @@ template = "requests.html"
 - Chloe Pawapuwa - Komorebi
 - [GI 2Y Anniv Fansong] If you suddenly think of me
 - Kobo Kanaeru x Heiakim - War! Tokopedia
-- Mosawo - Kira kira
+- Mosawo - Kirakira
 - Kobo Kanaeru - Sebatas video call
-- Minami - Blue Gurasu</pre>
+- Minami - Blue Gurasu
+- Hoshimachi Suisei - Stellar Stellar (or first take ver.)</pre>
     </details>
 </blockquote>
