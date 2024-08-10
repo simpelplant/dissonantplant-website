@@ -47,7 +47,6 @@ template = "requests.html"
 - Monkey Majik - Fast Forward
 - TUYU - Anoyo iki no basu ni notte saraba
 - Kobo Kanaeru - Help!
-- Kessoku Band - Into the Light
 - BuzzG - Carry On
 - BeaconCream & Frederett - Jarak
 - Pretender
@@ -56,6 +55,10 @@ template = "requests.html"
 - Shibayan Records - なんてことない日
 - Airani Iofifteen - Here I am
 - Alekun - Baka
+- Shibayan Records - Tiny Little Adiantum
+- Hoshimachi Suisei - Bibideba
+- Kessoku Band - Never Forget
+- Caramelo Project - Candu Kopi
 ```
 
 <blockquote>
@@ -95,6 +98,7 @@ template = "requests.html"
 - Mosawo - Kirakira
 - Kobo Kanaeru - Sebatas video call
 - Minami - Blue Gurasu
-- Hoshimachi Suisei - Stellar Stellar (or first take ver.)</pre>
+- Hoshimachi Suisei - Stellar Stellar (or first take ver.)
+- Kessoku Band - Into the Light</pre>
     </details>
 </blockquote>
