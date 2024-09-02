@@ -50,7 +50,6 @@ template = "requests.html"
 - BuzzG - Carry On
 - BeaconCream & Frederett - Jarak
 - Pretender
-- MikotoP - Shojou Rei
 - SSGIRLS - Sunny Spot
 - Shibayan Records - なんてことない日
 - Airani Iofifteen - Here I am
@@ -99,6 +98,7 @@ template = "requests.html"
 - Kobo Kanaeru - Sebatas video call
 - Minami - Blue Gurasu
 - Hoshimachi Suisei - Stellar Stellar (or first take ver.)
-- Kessoku Band - Into the Light</pre>
+- Kessoku Band - Into the Light
+- mikitoP - Shojou Rei</pre>
     </details>
 </blockquote>
