@@ -28,7 +28,6 @@ template = "requests.html"
 - Ayunda Risdidu - 1:15 am
 - Yuuri or Yorushiku songs
 - Mosawo - Aitai (Base D)
-- Mosawo - Kinmokusei
 - Jungkook - Still With You
 - Chloe Pawapuwa - Lagu
 - PWG - Fluktuasi Glukosa
@@ -58,6 +57,9 @@ template = "requests.html"
 - Hoshimachi Suisei - Bibideba
 - Kessoku Band - Never Forget
 - Caramelo Project - Candu Kopi
+- Mosawo - Cider
+- Redraw - futari no mint
+- Yuuri - Dry Flower
 ```
 
 <blockquote>
@@ -99,6 +101,7 @@ template = "requests.html"
 - Minami - Blue Gurasu
 - Hoshimachi Suisei - Stellar Stellar (or first take ver.)
 - Kessoku Band - Into the Light
-- mikitoP - Shojou Rei</pre>
+- mikitoP - Shojou Rei
+- Mosawo - Kinmokusei</pre>
     </details>
 </blockquote>
