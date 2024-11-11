@@ -189,3 +189,4 @@ Yukou sono saki no saki no saki!
 [Outro]
 E7 | Cmaj7 | E7 | Cmaj7
 E7 | Cmaj7 | E7 | Cmaj7
+```

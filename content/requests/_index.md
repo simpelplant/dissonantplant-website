@@ -13,7 +13,6 @@ template = "requests.html"
 - Gawr Gura - Reflect
 - Hiiragi Nao - Requiem
 - Onnanoko ni naritai (Kobo version)
-- TOKOTOKO - yomosugara kimi omou (acoustic cover) | vocal by Hoshimachi Suisei
 - Irys - Caesura of Despair
 - Moona Hoshinova - High Tide
 - Juliet - Motokare
@@ -60,6 +59,9 @@ template = "requests.html"
 - Mosawo - Cider
 - Redraw - futari no mint
 - Yuuri - Dry Flower
+- ZAQ - Dance in the game
+- Kanaria - King
+- Hanni - Darling Darling
 ```
 
 <blockquote>
@@ -102,6 +104,7 @@ template = "requests.html"
 - Hoshimachi Suisei - Stellar Stellar (or first take ver.)
 - Kessoku Band - Into the Light
 - mikitoP - Shojou Rei
-- Mosawo - Kinmokusei</pre>
+- Mosawo - Kinmokusei
+- TOKOTOKO - yomosugara kimi omou</pre>
     </details>
 </blockquote>
