@@ -60,8 +60,9 @@ template = "requests.html"
 - Redraw - futari no mint
 - Yuuri - Dry Flower
 - ZAQ - Dance in the game
-- Kanaria - King
 - Hanni - Darling Darling
+- TORi - in the rain
+- TOKOTOKO - Booo!
 ```
 
 <blockquote>
@@ -105,6 +106,7 @@ template = "requests.html"
 - Kessoku Band - Into the Light
 - mikitoP - Shojou Rei
 - Mosawo - Kinmokusei
-- TOKOTOKO - yomosugara kimi omou</pre>
+- TOKOTOKO - yomosugara kimi omou
+- Kanaria - King</pre>
     </details>
 </blockquote>

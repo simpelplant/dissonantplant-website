@@ -16,6 +16,8 @@ extra_info = ""
 tags = ["jpop artist", "original"]
 +++
 
+[Capo fret 1]
+
 ```
 [Intro]
 F C Dm7 Am | A#sus2 A#sus2\C Dm7
