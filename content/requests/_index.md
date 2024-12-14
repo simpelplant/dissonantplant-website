@@ -44,7 +44,6 @@ template = "requests.html"
 - Mori Calliope - Live Again
 - Monkey Majik - Fast Forward
 - TUYU - Anoyo iki no basu ni notte saraba
-- Kobo Kanaeru - Help!
 - BuzzG - Carry On
 - BeaconCream & Frederett - Jarak
 - Pretender
@@ -63,6 +62,9 @@ template = "requests.html"
 - Hanni - Darling Darling
 - TORi - in the rain
 - TOKOTOKO - Booo!
+- creephyp - oyasumi nakigoe sayonara utahime
+- Akala Kai - Yoru ni Tokeru
+- Nanashi Mumei - A New Start
 ```
 
 <blockquote>
@@ -107,6 +109,7 @@ template = "requests.html"
 - mikitoP - Shojou Rei
 - Mosawo - Kinmokusei
 - TOKOTOKO - yomosugara kimi omou
-- Kanaria - King</pre>
+- Kanaria - King
+- Kobo Kanaeru - Help!</pre>
     </details>
 </blockquote>
