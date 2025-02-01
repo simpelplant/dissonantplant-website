@@ -58,13 +58,15 @@ template = "requests.html"
 - Mosawo - Cider
 - Redraw - futari no mint
 - Yuuri - Dry Flower
-- ZAQ - Dance in the game
 - Hanni - Darling Darling
 - TORi - in the rain
 - TOKOTOKO - Booo!
 - creephyp - oyasumi nakigoe sayonara utahime
 - Akala Kai - Yoru ni Tokeru
 - Nanashi Mumei - A New Start
+- Ado - Sakura Biyori and Time Machine
+- Shibayan Records - Bom Dia
+- Natori - Terminal
 ```
 
 <blockquote>
@@ -110,6 +112,7 @@ template = "requests.html"
 - Mosawo - Kinmokusei
 - TOKOTOKO - yomosugara kimi omou
 - Kanaria - King
-- Kobo Kanaeru - Help!</pre>
+- Kobo Kanaeru - Help!
+- ZAQ - Dance in the game</pre>
     </details>
 </blockquote>
