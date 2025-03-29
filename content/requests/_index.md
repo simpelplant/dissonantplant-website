@@ -67,6 +67,7 @@ template = "requests.html"
 - Ado - Sakura Biyori and Time Machine
 - Shibayan Records - Bom Dia
 - Natori - Terminal
+- EGOIST - Departures - Anata ni Okuru Ai no Uta
 ```
 
 <blockquote>
