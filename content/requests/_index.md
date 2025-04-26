@@ -63,11 +63,11 @@ template = "requests.html"
 - TOKOTOKO - Booo!
 - creephyp - oyasumi nakigoe sayonara utahime
 - Akala Kai - Yoru ni Tokeru
-- Nanashi Mumei - A New Start
 - Ado - Sakura Biyori and Time Machine
 - Shibayan Records - Bom Dia
 - Natori - Terminal
 - EGOIST - Departures - Anata ni Okuru Ai no Uta
+- Sway away to my beat in cosmos
 ```
 
 <blockquote>
@@ -114,6 +114,7 @@ template = "requests.html"
 - TOKOTOKO - yomosugara kimi omou
 - Kanaria - King
 - Kobo Kanaeru - Help!
-- ZAQ - Dance in the game</pre>
+- ZAQ - Dance in the game
+- Nanashi Mumei - A New Start</pre>
     </details>
 </blockquote>
